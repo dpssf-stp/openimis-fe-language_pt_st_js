@@ -1,7 +1,7 @@
 {
     "resetFilterTooltip": "Reinicializar Criterios De Busca",
     "refreshFilterTooltip": "Buscar De Novo",
-    "year.null": "QUALQUER",
+    "year.null": "TODOS",
     "search.title": "Critérios de Busca",
     "admin.mainMenu": "Administração",
     "admin.menu.products": "Pacote de benefícios",
